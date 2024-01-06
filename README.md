@@ -19,10 +19,8 @@ Welcome to the Royal TV Show Explorer, a Flutter app that immerses you in the gr
 ![WhatsApp Image 2024-01-04 at 13 44 31_36d0b768](https://github.com/aryanmaheshwari1420/rest_api/assets/98485902/22b7405b-c3f5-43f1-97f3-0b2fadb80f51)
 
 
-
-
-
 *Search Screen - Empowers users to seek royal TV shows by name.*
+
 ![WhatsApp Image 2024-01-04 at 13 43 09_b370230c](https://github.com/aryanmaheshwari1420/rest_api/assets/98485902/c063d90c-d003-4a2f-9f49-5d02e94e328f)
 
 
