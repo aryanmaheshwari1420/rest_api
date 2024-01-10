@@ -51,3 +51,6 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 You can reach out to me through my LinkedIn profile: [Aryan Maheshwari](https://www.linkedin.com/in/aryan-maheshwari-020bb0206/).
 Let's make this royal TV show journey even more captivating! 👑✨
 
+## Video Link
+https://drive.google.com/file/d/1q7VifRwi68ok2wNBjbV5gdV3q9XrhPur/view?usp=drivesdk
+
